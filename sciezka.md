@@ -18,6 +18,9 @@
 
    
 ## Umiejetności
-- ...
-- ...
-- ...
+- **Tworzenie stron internetowych**
+- **Konfiguracja urządzeń sieciowych** (*router, switch, serwer, antena*)
+- **Programowanie** (*C#, Python, JavaScript*)
+- **Grafika 3D**
+- **Zarabianie RJ45**
+- **Spawanie światłowodów** (*mało powiązane z informatyką, ale fajna umiejętność*)
