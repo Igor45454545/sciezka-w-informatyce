@@ -24,3 +24,6 @@
 - **Grafika 3D**
 - **Zarabianie RJ45**
 - **Spawanie światłowodów** (*mało powiązane z informatyką, ale fajna umiejętność*)
+
+## Cele
+Otworzenie własnej działalności, nie koniecznie związanej z informatyką, lecz wiedza w tym temacie może mi pomóc zaoszczędzić na pierwszych etapach budowania działalności (strona, marketing itp.)
